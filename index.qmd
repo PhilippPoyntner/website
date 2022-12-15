@@ -1,5 +1,5 @@
 ---
-title: "Poyntner"
+title: "Philipp Poyntner"
 about:
   template: trestles
   image: portrait.jpg
