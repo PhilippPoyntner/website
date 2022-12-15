@@ -10,6 +10,10 @@ website:
         text: Home
       - href: index.qmd#research
         text: Research
+      - href: index.qmd#teaching
+        text: Teaching
+      - href: index.qmd#media
+        text: Media
 
 format:
   html:
