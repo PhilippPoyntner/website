@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Philipp Poyntner"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#research
+        text: Research
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
