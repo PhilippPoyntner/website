@@ -8,6 +8,12 @@ about:
     - icon: twitter
       text: twitter
       href: https://twitter.com/ppoyntner
+    - icon: mortarboard-fill
+      text: google scholar
+      href: https://scholar.google.at/citations?hl=en&user=NW9fUFsAAAAJ
+    - icon: mortarboard
+      text: researchgate
+      href: https://www.researchgate.net/profile/Philipp-Poyntner
 ---
 
 ::: {#hero-heading}
@@ -15,7 +21,7 @@ I am a PhD candidate at the at the Vienna University of Economics and Business.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality.
 
-Contact me at philipp.poyntner\@wu.ac.at
+Contact me: philipp.poyntner\@wu.ac.at
 :::
 
 ## Research
@@ -60,7 +66,7 @@ We assess the impact of the ECB's unconventional monetary policy, specifically o
 
 <p style="font-size:12px">
 
-<a href="https://research.wu.ac.at/en/publications/effects-of-the-ecbs-unconventional-monetary-policy-on-real-and-fi-9">WU Department of Economics Working Paper Series</a>
+as "Effects of the ECB's unconventional monetary policy on real and financial wealth":<a href="https://research.wu.ac.at/en/publications/effects-of-the-ecbs-unconventional-monetary-policy-on-real-and-fi-9">WU Department of Economics Working Paper Series</a> (the most recent version is heavily revised)
 
 </p>
 
@@ -80,7 +86,7 @@ In the wake of the global financial crisis, several large bank rescues by govern
 
 </details>
 
-## Policy Publications
+## Book chapters & Policy Publications
 
 Feldkircher, M., Schuberth, H., & Poyntner, P. (2017). Verteilungswirkungen unkonventioneller Geldpolitik im Euroraum, in: Hagemann, Kromphart, Jürgen and Marterbauer, Markus (2017): <em> Keynes, Geld und Finanzen. </em> Schriften der Keynes-Gesellschaft, Band 11.
 
@@ -94,12 +100,18 @@ Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (20
 
 Firm-level Consequences of Corporate Quantatitive Easing
 
-Unconventional Monetary Policy and the Labour Share (with Lea Steininger, WU)
+Unconventional Monetary Policy and the Labour Share (with <a href="https://www.wu.ac.at/economics/mitarbeiter-innen/lea-steininger-1/"> Lea Steininger"</a>, WU)
 
-Heat and construction workers' health (with Anna-Theresa Renner, TU Vienna, and Roman Hoffmann, IIASA)
+Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and Roman Hoffmann, IIASA)
 
-Public Perceptions of the Linkage between Monetary Policy Decisions and the Housing Market (with Sofie R. Waltl, WU and LISER)
+Public Perceptions of the Linkage between Monetary Policy Decisions and the Housing Market (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, WU and LISER)
 
+<details>
+<summary>Presentation</summary>
+<p style="font-size:12px">
+<a href="housing.pdf">Presentation Luxemburg 2022</a>
+</p>
+</details>
 ## Teaching
 
 Econometrics III (Bachelor, WU)
