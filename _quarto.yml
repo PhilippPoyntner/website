@@ -14,6 +14,8 @@ website:
         text: Teaching
       - href: index.qmd#media
         text: Media
+      - href: index.qmd#cv
+        text: CV
 
 format:
   html:

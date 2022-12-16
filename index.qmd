@@ -13,11 +13,16 @@ about:
 
 I am a PhD candidate at the at the Vienna University of Economics and Business.
 
-My research interests include macroeconomics, specifically unconventional monetary policy, the housisng market and inequality.
+My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality.
 
 Contact me at philipp.poyntner\@wu.ac.at
 
 :::
+
+---
+text:
+  template: jolla
+---
 
 ## Research
 
@@ -42,7 +47,7 @@ Riedel, M., Davoine, T., Poyntner, P., & Titelbach, G. (2015). Optionen zur Deck
 
 Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (2015). Ex Ante Evaluation der Steuerreform 2015/2016. Wirkungen auf Einkommensverteilung, Arbeitsangebot und makroökonomische Größen. <em> Study on behalf of the Austrian Ministry of Finance. </em>
 
-# Working Papers
+## Working Papers
 
 de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P.  (revise and resubmit), Quantitative Easing and Wealth Inequality: The asset price channel.
 
