@@ -19,10 +19,6 @@ Contact me at philipp.poyntner\@wu.ac.at
 
 :::
 
----
-text:
-  template: jolla
----
 
 ## Research
 
