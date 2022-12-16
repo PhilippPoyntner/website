@@ -4,4 +4,16 @@ about:
   template: jolla
 ---
 
-Misc. Coming soon.
+##Consultancy experience:
+
+International Finance Corporation (World Bank): Development of a python code to automate data download
+
+European Centre for Social Welfare Policy and Research: Update of the Tax-Benefit Microsimulation Models SORESI & EUROMOD
+
+Austrian National Bank (OeNB): Various research projects
+
+## Referee service:
+Empirica, Empirical Economics, Review of World Economics
+
+## Disclaimer:
+This website is built with quarto and hosted on github.

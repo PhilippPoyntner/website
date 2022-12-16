@@ -17,16 +17,18 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a PhD candidate at the at the Vienna University of Economics and Business.
+I am a PhD candidate at the Vienna University of Economics and Business.
 
-My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality.
+My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.
+
+I have provided consultancy work for the Austrian National Bank, the International Finance Corporation (IFC) at the World Bank, and the European Centre for Social Welfare Policy and Research. 
 
 Contact me: philipp.poyntner\@wu.ac.at
 :::
 
 ## Research
 
-## Publications
+#### Publications
 
 <p>Hake, M. and Poyntner, P. (2022). Keeping Up With the Novaks? Income Distribution as a Determinant of Household Debt in CESEE. <em> Review of Income and Wealth </em>, 68: S224-S260. https://doi.org/10.1111/roiw.12540</p>
 
@@ -44,8 +46,7 @@ This paper constitutes an initial attempt to shed light on the role of income di
 
 Hake, M., & Poyntner, P. (2019). Household loans in CESEE from a new perspective: the role of income distribution. <em>Focus on European Economic Integration </em> Q2, 75-93.
 
-## Working Papers
-
+#### Working Papers
 de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (revise and resubmit), Quantitative Easing and Wealth Inequality: The asset price channel.
 
 <details>
@@ -86,7 +87,7 @@ In the wake of the global financial crisis, several large bank rescues by govern
 
 </details>
 
-## Book chapters & Policy Publications
+#### Book chapters & Policy Publications
 
 Feldkircher, M., Schuberth, H., & Poyntner, P. (2017). Verteilungswirkungen unkonventioneller Geldpolitik im Euroraum, in: Hagemann, Kromphart, Jürgen and Marterbauer, Markus (2017): <em> Keynes, Geld und Finanzen. </em> Schriften der Keynes-Gesellschaft, Band 11.
 
@@ -96,7 +97,7 @@ Riedel, M., Davoine, T., Poyntner, P., & Titelbach, G. (2015). Optionen zur Deck
 
 Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (2015). Ex Ante Evaluation der Steuerreform 2015/2016. Wirkungen auf Einkommensverteilung, Arbeitsangebot und makroökonomische Größen. <em> Study on behalf of the Austrian Ministry of Finance. </em>
 
-## Work in Progress
+#### Work in Progress
 
 Firm-level Consequences of Corporate Quantatitive Easing
 
