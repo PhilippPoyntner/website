@@ -9,16 +9,20 @@ about:
       href: https://twitter.com/ppoyntner
 ---
 
+:::{#hero-heading}
+
 I am a PhD candidate at the at the Vienna University of Economics and Business.
 
-In my research, I investigate monetary policy often using microdata.
+My research interests include macroeconomics, specifically unconventional monetary policy, the housisng market and inequality.
 
 Contact me at philipp.poyntner\@wu.ac.at
+
+:::
 
 ## Research
 
 ## Publications
-<p> Hake, M. and Poyntner, P. (2022), Keeping Up With the Novaks? Income Distribution as a Determinant of Household Debt in CESEE.  <em> Review of Income and Wealth </em>, 68: S224-S260.  https://doi.org/10.1111/roiw.12540 </p>
+<p> Hake, M. and Poyntner, P. (2022). Keeping Up With the Novaks? Income Distribution as a Determinant of Household Debt in CESEE.  <em> Review of Income and Wealth </em>, 68: S224-S260.  https://doi.org/10.1111/roiw.12540 </p>
 
 <details>
 
@@ -28,7 +32,15 @@ This paper constitutes an initial attempt to shed light on the role of income di
 </p>
 </details>
 
-Hake, M., & Poyntner, P. (2019). Household loans in CESEE from a new perspective: the role of income distribution. Focus on European Economic Integration Q, 2, 75-93.
+Hake, M., & Poyntner, P. (2019). Household loans in CESEE from a new perspective: the role of income distribution. <em>Focus on European Economic Integration </em> Q2, 75-93.
+
+Feldkircher, M., Schuberth, H., & Poyntner, P. (2017). Verteilungswirkungen unkonventioneller Geldpolitik im Euroraum, in: Hagemann, Kromphart, Jürgen and Marterbauer, Markus (2017): Keynes, Geld und Finanzen. Schriften der Keynes-Gesellschaft, Band 11.
+
+Poyntner, P. (2016). Beschäftigungseffekte von Arbeitszeitverkürzung. Eine makroökonomische Perspektive, 2016, <em> Wirtschaft und Gesellschaft </em> 4, 665-684.
+
+Riedel, M., Davoine, T., Poyntner, P., & Titelbach, G. (2015). Optionen zur Deckung des zukünftigen Finanzierungsbedarfes in der Pflege. <em> Study on behalf of the Austrian Ministry of Finance. </em>
+
+Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (2015). Ex Ante Evaluation der Steuerreform 2015/2016. Wirkungen auf Einkommensverteilung, Arbeitsangebot und makroökonomische Größen. <em> Study on behalf of the Austrian Ministry of Finance. </em>
 
 # Working Papers
 
@@ -48,6 +60,35 @@ We assess the impact of the ECB’s unconventional monetary policy, specifically
 </details> 
 
 Poyntner, P., & Reininger, T. (2018). Bail-in and Legacy Assets: Harmonized rules for targeted partial compensation to strengthen the bail-in regime. OeNB Working Paper 224.
+<details>
+<summary>Abstract</summary>
+<p style="font-size:12px">
+In the wake of the global financial crisis, several large bank rescues by governments further
+entrenched bail-out expectations in the wider public. Then, following a problematic ad-hoc
+bail-in in Cyprus early 2013, EU rules introduced provisions for ‘bail-in’, that is, the
+administrative power to require write-down or conversion into equity of non-equity claims – a
+significant regime change to deal with banks failing or likely to fail. This paper focuses on the implications of this regime change for consumer/investor protection, especially for socially more vulnerable households, and on the resulting risk for political acceptance and the
+achievement of the bail-in objective. Therefore, it reviews these rules and their application in
+recent cases, focusing on the treatment of retail bond holders. Moreover, it explores the
+distribution of retail holders of bank bonds across economy-wide income quantiles in the
+euro area and various euro area countries. We find that neither the share of below-median-
+income households with bank bonds in the total number of households with bank bonds nor
+the relative vulnerability to ‘bail-in’ of these households that tend to have higher levels of
+financial illiterateness are negligible. Recent applications of bail-in-rules, while diverse with
+respect to legal basis, scope and purpose, have barely gone beyond the write-down and
+conversion of capital instruments, thus excluding senior bonds. Nevertheless, in all these
+cases, some sort of compensation scheme for retail investors was deemed necessary and
+implemented, varying in design, but mostly benefiting almost all retail holders. In two
+prominent cases there was no effective bail-in of retail holders. In conclusion, following a
+lesser-known example from Italy, we propose EU harmonized partial compensation rules for
+socially more vulnerable retail holders of bank debt securities acquired before 2016. They
+would render implementation of bail-in socially more acceptable, politically more feasible and
+economically more efficient. During the transition period until household investment
+behaviour will have fully adjusted to the new world of bail-in, the proposed compensation
+rules would help avoid effective non-application of bail-in that otherwise results from
+excluding senior bonds and/or granting excessive compensation.
+</p>
+</details> 
 
 ## Work in Progress
 
@@ -76,5 +117,7 @@ code to automatically web-scrape large-scale OCR-scans of historical documents, 
 <a href="https://www.derstandard.at/story/2000116564434/ist-die-ezb-ein-umgekehrter-robin-hood">derstandard (2020)</a>
 
 <a href="https://awblog.at/arbeitszeitverkuerzung-als-beschaeftigungsmotor/"> A\&W Blog (2016)</a>
+
+## CV
 
 
