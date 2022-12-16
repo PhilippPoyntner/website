@@ -74,7 +74,7 @@
     "href": "misc.html",
     "title": "Miscellaneous",
     "section": "",
-    "text": "Misc. Coming soon."
+    "text": "International Finance Corporation (World Bank): Development of a python code to automate data download\nEuropean Centre for Social Welfare Policy and Research: Update of the Tax-Benefit Microsimulation Models SORESI & EUROMOD\nAustrian National Bank (OeNB): Various research projects"
   },
   {
     "objectID": "index.html#book-chapters-policy-publications",
@@ -82,5 +82,19 @@
     "title": "Philipp Poyntner",
     "section": "Book chapters & Policy Publications",
     "text": "Book chapters & Policy Publications\nFeldkircher, M., Schuberth, H., & Poyntner, P. (2017). Verteilungswirkungen unkonventioneller Geldpolitik im Euroraum, in: Hagemann, Kromphart, Jürgen and Marterbauer, Markus (2017):  Keynes, Geld und Finanzen.  Schriften der Keynes-Gesellschaft, Band 11.\nPoyntner, P. (2016). Beschäftigungseffekte von Arbeitszeitverkürzung. Eine makroökonomische Perspektive, 2016,  Wirtschaft und Gesellschaft  4, 665-684.\nRiedel, M., Davoine, T., Poyntner, P., & Titelbach, G. (2015). Optionen zur Deckung des zukünftigen Finanzierungsbedarfes in der Pflege.  Study on behalf of the Austrian Ministry of Finance. \nHofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (2015). Ex Ante Evaluation der Steuerreform 2015/2016. Wirkungen auf Einkommensverteilung, Arbeitsangebot und makroökonomische Größen.  Study on behalf of the Austrian Ministry of Finance."
+  },
+  {
+    "objectID": "misc.html#referee-service",
+    "href": "misc.html#referee-service",
+    "title": "Miscellaneous",
+    "section": "Referee service:",
+    "text": "Referee service:\nEmpirica, Empirical Economics, Review of World Economics"
+  },
+  {
+    "objectID": "misc.html#disclaimer",
+    "href": "misc.html#disclaimer",
+    "title": "Miscellaneous",
+    "section": "Disclaimer:",
+    "text": "Disclaimer:\nThis website is made with Quarto and hosted on Github."
   }
 ]

@@ -4,7 +4,7 @@ about:
   template: jolla
 ---
 
-##Consultancy experience:
+## Consultancy experience:
 
 International Finance Corporation (World Bank): Development of a python code to automate data download
 
@@ -16,4 +16,11 @@ Austrian National Bank (OeNB): Various research projects
 Empirica, Empirical Economics, Review of World Economics
 
 ## Disclaimer:
-This website is built with quarto and hosted on github.
+This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on <a href="https://github.com/PhilippPoyntner/website">Github</a>.
+<body>
+   <div id = "result"></div>
+   <script>
+      var date = document.lastModified;
+      document.getElementById("result").innerHTML = "The website was last updated on: " + date;
+   </script>
+</body>
