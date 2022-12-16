@@ -1,6 +1,7 @@
 ---
 title: "Philipp Poyntner"
 about:
+  id: hero-heading
   template: trestles
   image: portrait.jpg
   links:
@@ -118,3 +119,4 @@ Workshop at the University of Vienna (Department of Economic History): Developme
 <a href="https://awblog.at/arbeitszeitverkuerzung-als-beschaeftigungsmotor/"> A&W Blog (2016)</a>
 
 ## CV
+<a href="cv.pdf">CV</a>
