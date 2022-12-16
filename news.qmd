@@ -1,0 +1,7 @@
+---
+title: "News"
+about:
+  template: jolla
+---
+
+News, talks. Coming soon.

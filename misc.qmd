@@ -1,0 +1,7 @@
+---
+title: "Miscellaneous"
+about:
+  template: jolla
+---
+
+Misc. Coming soon.

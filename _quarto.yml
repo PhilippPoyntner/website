@@ -16,7 +16,10 @@ website:
         text: Media
       - href: index.qmd#cv
         text: CV
-
+      - news.qmd
+      - misc.qmd
+  twitter-card: true
+  
 format:
   html:
     theme: cosmo
