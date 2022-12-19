@@ -21,7 +21,7 @@ I am a PhD candidate at the Vienna University of Economics and Business.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.
 
-I have provided consultancy work for the Austrian National Bank, the International Finance Corporation (IFC) at the World Bank, and the European Centre for Social Welfare Policy and Research. 
+I have provided consultancy work for the Austrian National Bank, the International Finance Corporation (IFC) at the World Bank, and the European Centre for Social Welfare Policy and Research.
 
 Contact me: philipp.poyntner\@wu.ac.at
 :::
@@ -47,6 +47,7 @@ This paper constitutes an initial attempt to shed light on the role of income di
 Hake, M., & Poyntner, P. (2019). Household loans in CESEE from a new perspective: the role of income distribution. <em>Focus on European Economic Integration </em> Q2, 75-93.
 
 #### Working Papers
+
 de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (revise and resubmit), Quantitative Easing and Wealth Inequality: The asset price channel.
 
 <details>
@@ -103,16 +104,22 @@ Firm-level Consequences of Corporate Quantatitive Easing
 
 Unconventional Monetary Policy and the Labour Share (with <a href="https://www.wu.ac.at/economics/mitarbeiter-innen/lea-steininger-1/"> Lea Steininger"</a>, WU)
 
-Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and Roman Hoffmann, IIASA)
+Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and <a href="https://iiasa.ac.at/staff/roman-hoffmann"> Roman Hoffmann</a>, IIASA)
 
 Public Perceptions of the Linkage between Monetary Policy Decisions and the Housing Market (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, WU and LISER)
 
 <details>
+
 <summary>Presentation</summary>
+
 <p style="font-size:12px">
+
 <a href="housing.pdf">Presentation Luxemburg 2022</a>
+
 </p>
+
 </details>
+
 ## Teaching
 
 Econometrics III (Bachelor, WU)
@@ -132,4 +139,5 @@ Workshop at the University of Vienna (Department of Economic History): Developme
 <a href="https://awblog.at/arbeitszeitverkuerzung-als-beschaeftigungsmotor/"> A&W Blog (2016)</a>
 
 ## CV
+
 <a href="cv.pdf">CV</a>
