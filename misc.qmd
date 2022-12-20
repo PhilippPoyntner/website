@@ -13,14 +13,23 @@ European Centre for Social Welfare Policy and Research: Update of the Tax-Benefi
 Austrian National Bank (OeNB): Various research projects
 
 ## Referee service:
+
 Empirica, Empirical Economics, Review of World Economics
 
 ## Disclaimer:
+
 This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on <a href="https://github.com/PhilippPoyntner/website">Github</a>.
+
 <body>
-   <div id = "result"></div>
-   <script>
+
+::: {#result}
+:::
+
+```{=html}
+<script>
       var date = document.lastModified;
+      date=date.slice(0, -9); 
       document.getElementById("result").innerHTML = "The website was last updated on: " + date;
    </script>
+```
 </body>
