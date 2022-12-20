@@ -17,7 +17,7 @@ Austrian National Bank (OeNB): Various research projects
 Empirica, Empirical Economics, Review of World Economics
 
 ## Disclaimer:
-
+  
 This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on <a href="https://github.com/PhilippPoyntner/website">Github</a>.
 
 <body>
