@@ -30,7 +30,7 @@ Contact me: philipp.poyntner  at wu.ac.at
 
 #### Publications
 
-<p>Hake, M. and Poyntner, P. (2022). Keeping Up With the Novaks? Income Distribution as a Determinant of Household Debt in CESEE. <em> Review of Income and Wealth </em>, 68: S224-S260. https://doi.org/10.1111/roiw.12540</p>
+Hake, M. and Poyntner, P. (2022). <a href="https://doi.org/10.1111/roiw.12540">Keeping Up With the Novaks? Income Distribution as a Determinant of Household Debt in CESEE.</a>  <em> Review of Income and Wealth </em>, 68: S224-S260. https://doi.org/10.1111/roiw.12540
 
 <details>
 
@@ -48,7 +48,7 @@ Hake, M., & Poyntner, P. (2019). Household loans in CESEE from a new perspective
 
 #### Working Papers
 
-de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (revise and resubmit), Quantitative Easing and Wealth Inequality: The asset price channel.
+de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (revise and resubmit), <a href="UMP_Inequality.pdf">Quantitative Easing and Wealth Inequality: The asset price channel.</a>  
 
 <details>
 
@@ -102,10 +102,6 @@ Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (20
 
 Firm-level Consequences of Corporate Quantatitive Easing
 
-Unconventional Monetary Policy and the Labour Share (with <a href="https://www.wu.ac.at/economics/mitarbeiter-innen/lea-steininger-1/"> Lea Steininger</a>, WU)
-
-Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and <a href="https://iiasa.ac.at/staff/roman-hoffmann"> Roman Hoffmann</a>, IIASA)
-
 Public Perceptions of the Linkage between Monetary Policy Decisions and the Housing Market (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, WU and LISER)
 
 <details>
@@ -119,6 +115,10 @@ Public Perceptions of the Linkage between Monetary Policy Decisions and the Hous
 </p>
 
 </details>
+
+Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and <a href="https://iiasa.ac.at/staff/roman-hoffmann"> Roman Hoffmann</a>, IIASA)
+
+Unconventional Monetary Policy and the Labour Share (with <a href="https://www.wu.ac.at/economics/mitarbeiter-innen/lea-steininger-1/"> Lea Steininger</a>, WU)
 
 ## Teaching
 
