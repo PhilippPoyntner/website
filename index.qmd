@@ -30,7 +30,7 @@ Contact me: philipp.poyntner  at wu.ac.at
 
 #### Publications
 
-de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (forthcoming at the <em>Oxford Bulletin of Economics and Statistics</em>), <a href="UMP_Inequality.pdf">Quantitative Easing and Wealth Inequality: The asset price channel.</a>  
+de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. <a href="https://ideas.repec.org/p/wiw/wus005/7040.html">Quantitative Easing and Wealth Inequality: The asset price channel.</a> (forthcoming at the <em>Oxford Bulletin of Economics and Statistics</em>), 
 
 <details>
 
