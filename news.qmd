@@ -4,4 +4,4 @@ about:
   template: jolla
 ---
 
-News, talks. Coming soon.
+- 01/2023: "Quantitative Easing and Wealth Inequality: The asset price channel." has been accepted at the <em>Oxford Bulletin of Economics and Statistics</em>!

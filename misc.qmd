@@ -16,6 +16,9 @@ Austrian National Bank (OeNB): Various research projects
 
 Empirica, Empirical Economics, Review of World Economics
 
+## Other:
+I made a little <a href="https://twitter.com/grillplatzwien">twitter bot</a> that alerted followers when registration for the highly demanded barbecue spots at Viennas Danube island has opened (hibernated now as the registration service is back to the usual schedule).
+
 ## Disclaimer:
   
 This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on <a href="https://github.com/PhilippPoyntner/website">Github</a>.
