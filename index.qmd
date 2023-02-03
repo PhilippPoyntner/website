@@ -23,14 +23,14 @@ My research interests include macroeconomics, specifically unconventional moneta
 
 I have provided consultancy work for the Austrian National Bank, the International Finance Corporation (IFC) at the World Bank, and the European Centre for Social Welfare Policy and Research.
 
-Contact me: philipp.poyntner  at wu.ac.at
+Contact me: philipp.poyntner at wu.ac.at
 :::
 
 ## Research
 
 #### Publications
 
-de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. <a href="https://ideas.repec.org/p/wiw/wus005/7040.html">Quantitative Easing and Wealth Inequality: The asset price channel.</a> (forthcoming at the <em>Oxford Bulletin of Economics and Statistics</em>), 
+de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. <a href="https://ideas.repec.org/p/wiw/wus005/7040.html">Quantitative Easing and Wealth Inequality: The asset price channel.</a> (forthcoming at the <em>Oxford Bulletin of Economics and Statistics</em>),
 
 <details>
 
@@ -56,8 +56,7 @@ as "Effects of the ECB's unconventional monetary policy on real and financial we
 
 </details>
 
-
-Hake, M. and Poyntner, P. (2022). <a href="https://doi.org/10.1111/roiw.12540">Keeping Up With the Novaks? Income Distribution as a Determinant of Household Debt in CESEE.</a>  <em> Review of Income and Wealth </em>, 68: S224-S260. https://doi.org/10.1111/roiw.12540
+Hake, M. and Poyntner, P. (2022). <a href="https://doi.org/10.1111/roiw.12540">Keeping Up With the Novaks? Income Distribution as a Determinant of Household Debt in CESEE.</a> <em> Review of Income and Wealth </em>, 68: S224-S260. https://doi.org/10.1111/roiw.12540
 
 <details>
 
@@ -140,5 +139,24 @@ Workshop at the University of Vienna (Department of Economic History): Developme
 <a href="https://awblog.at/arbeitszeitverkuerzung-als-beschaeftigungsmotor/"> A&W Blog (2016)</a>
 
 ## CV
+
+since 2018: PhD Economics, Vienna University of Economics and Business
+
+2013-2015: Master Economics, University of Vienna
+
+2009-2013: BA Economics, University of Vienna
+<hr>
+2022: Short-Term Consultant, European Centre for Social Welfare Policy and Research
+
+2021: Short-Term Consultant, World Bank (International Finance Corporation)
+
+2017: Johannes-Kepler-University Linz, Institute for Public Economics, Teaching and Research associate (temporary replacement)
+
+2016-2017: Oesterreichische Nationalbank (Austrian Central Bank), Foreign Research Division, intern
+
+2015-2016: Institute for Advanced Studies, Group "Labour Market and Social Policy", researcher
+
+2014-2015: Institute for Advanced Studies, Group "Labour Market and Social Policy", student assistant
+<hr>
 
 <a href="cv.pdf">CV</a>
