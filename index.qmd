@@ -26,11 +26,17 @@ I have provided consultancy work for the Austrian National Bank, the Internation
 Contact me: philipp.poyntner at wu.ac.at
 :::
 
+#### <em> Research interests: </em>
+* Applied Econometrics
+* Monetary Policy and Theory
+* Inequality
+* Housing markets
+
 ## Research
 
 #### Publications
 
-de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (2023) <a href="https://onlinelibrary.wiley.com/action/showCitFormats?doi=10.1111%2Fobes.12543">Quantitative Easing and Wealth Inequality: The asset price channel.</a>. <em>Oxford Bulletin of Economics and Statistics</em>. https://doi.org/10.1111/obes.12543
+de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (2023) <a href="https://onlinelibrary.wiley.com/doi/10.1111/obes.12543">Quantitative Easing and Wealth Inequality: The Asset Price Channel</a>. <em>Oxford Bulletin of Economics and Statistics</em>. https://doi.org/10.1111/obes.12543
 
 <details>
 
@@ -70,7 +76,8 @@ This paper constitutes an initial attempt to shed light on the role of income di
 
 </details>
 
-Hake, M., & Poyntner, P. (2019). Household loans in CESEE from a new perspective: the role of income distribution. <em>Focus on European Economic Integration </em> Q2, 75-93.
+Hake, M., & Poyntner, P. (2019). 
+<a href="https://www.oenb.at/dam/jcr:789c2078-b3f2-4621-b9f1-cd4fd3946f3b/05_feei_2019_q2_Household-loans-in-CESEE-from-a-new-perspective.pdf">Household loans in CESEE from a new perspective: the role of income distribution.</a> <em>Focus on European Economic Integration </em> Q2, 75-93.
 
 #### Working Papers
 
