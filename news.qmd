@@ -4,7 +4,6 @@ about:
   template: jolla
 format: html
 engine: knitr
-
 ---
 ```{css, echo = FALSE}
 .justify {

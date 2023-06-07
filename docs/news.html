@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.475">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -70,7 +70,6 @@ gtag('config', 'G-VRE6WLCH87', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="Philipp Poyntner - News">
-<meta name="twitter:description" content="{css, echo = FALSE} .justify {   text-align: justify !important }">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -91,25 +90,32 @@ gtag('config', 'G-VRE6WLCH87', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index.html#research">Research</a>
+    <a class="nav-link" href="./index.html#research">
+ <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index.html#teaching">Teaching</a>
+    <a class="nav-link" href="./index.html#teaching">
+ <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index.html#media">Media</a>
+    <a class="nav-link" href="./index.html#media">
+ <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index.html#cv">CV</a>
+    <a class="nav-link" href="./index.html#cv">
+ <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" aria-current="page">News</a>
+    <a class="nav-link active" href="./news.html" aria-current="page">
+ <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./misc.html">Miscellaneous</a>
+    <a class="nav-link" href="./misc.html">
+ <span class="menu-text">Miscellaneous</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -131,11 +137,18 @@ gtag('config', 'G-VRE6WLCH87', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<p><code>{css, echo = FALSE} .justify {   text-align: justify !important }</code></p>
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
 <div class="justify">
 <ul>
-<li>03/2023: I will visit LIS / LISER in September 2023 as part of the (LIS)^2ER visiting fellowship programme.</li>
-<li>02/2023: “Quantitative Easing and Wealth Inequality: The Asset Price Channel” is now online at the <em>Oxford Bulletin of Economics and Statistics</em> <a href="https://onlinelibrary.wiley.com/doi/10.1111/obes.12543"> (Open Access)</a></li>
+<li>05/2023: From July to September 2023, I will join the Bank of England’s Financial Stability Strategy &amp; Projects division as part of a PhD internship.</li>
+<li>03/2023: I will visit LIS / LISER in November 2023 as part of the <a href="https://www.lisdatacenter.org/projects/lis2er-initiative/visitors/"> (LIS)^2ER visiting fellowship programme</a>.</li>
+<li>02/2023: “Quantitative Easing and Wealth Inequality: The Asset Price Channel” is now online at the <em>Oxford Bulletin of Economics and Statistics</em> <a href="https://onlinelibrary.wiley.com/doi/10.1111/obes.12543"> (Open Access)</a>.</li>
 <li>01/2023: “Quantitative Easing and Wealth Inequality: The Asset Price Channel” has been accepted at the <em>Oxford Bulletin of Economics and Statistics</em>!</li>
 </ul>
 </div>
@@ -178,7 +191,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -214,24 +244,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
