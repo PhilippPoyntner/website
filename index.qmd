@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a PhD candidate at the Vienna University of Economics and Business.
+I am a PhD candidate at the Vienna University of Economics and Business. Currently, I am visiting the Bank of England as a PhD intern.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.
 
