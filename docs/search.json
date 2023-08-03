@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Philipp Poyntner",
     "section": "",
-    "text": "twitter\n  \n  \n    \n     google scholar\n  \n  \n    \n     researchgate\n  \n\n  \n  \nI am a PhD candidate at the Vienna University of Economics and Business.\nMy research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.\nMy research has been published in journals such as the Oxford Bulletin of Economics and Statistics and the Review of Income and Wealth.\nContact me: philipp.poyntner at wu.ac.at"
+    "text": "twitter\n  \n  \n    \n     google scholar\n  \n  \n    \n     researchgate\n  \n\n  \n  \nI am a PhD candidate at the Vienna University of Economics and Business. Currently, I am visiting the Bank of England as a PhD intern.\nMy research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.\nMy research has been published in journals such as the Oxford Bulletin of Economics and Statistics and the Review of Income and Wealth.\nContact me: philipp.poyntner at wu.ac.at"
   },
   {
     "objectID": "index.html#research",
@@ -35,11 +35,11 @@
     "text": "CV\nsince 2018: PhD Economics, Vienna University of Economics and Business\n2013-2015: Master Economics, University of Vienna\n2009-2013: BA Economics, University of Vienna\n\n2022: Short-Term Consultant, European Centre for Social Welfare Policy and Research\n2021: Short-Term Consultant, World Bank (International Finance Corporation)\n2017: Johannes-Kepler-University Linz, Institute for Public Economics, Teaching and Research associate (temporary replacement)\n2016-2017: Oesterreichische Nationalbank (Austrian Central Bank), Foreign Research Division, intern\n2015-2016: Institute for Advanced Studies, Group “Labour Market and Social Policy”, researcher\n2014-2015: Institute for Advanced Studies, Group “Labour Market and Social Policy”, student assistant\n\nCV"
   },
   {
-    "objectID": "misc.html",
-    "href": "misc.html",
+    "objectID": "misc.html#consultancy-experience",
+    "href": "misc.html#consultancy-experience",
     "title": "Miscellaneous",
-    "section": "",
-    "text": "International Finance Corporation (World Bank): Development of a python code to automate data download\nEuropean Centre for Social Welfare Policy and Research: Update of the Tax-Benefit Microsimulation Models SORESI & EUROMOD\nAustrian National Bank (OeNB): Various research projects"
+    "section": "Consultancy experience:",
+    "text": "Consultancy experience:\n\nInternational Finance Corporation (World Bank): Development of a python code to automate data download\nEuropean Centre for Social Welfare Policy and Research: Update of the Tax-Benefit Microsimulation Models SORESI & EUROMOD\nAustrian National Bank (OeNB): Various research projects"
   },
   {
     "objectID": "misc.html#referee-service",
@@ -47,6 +47,13 @@
     "title": "Miscellaneous",
     "section": "Referee service:",
     "text": "Referee service:\n\nEmpirica, Empirical Economics, Oxford Bulletin of Economics and Statistics, Review of World Economics"
+  },
+  {
+    "objectID": "misc.html#other",
+    "href": "misc.html#other",
+    "title": "Miscellaneous",
+    "section": "Other:",
+    "text": "Other:\n\nI made a little twitter bot that alerted followers when registration for the highly demanded barbecue spots at Viennas Danube island has opened (hibernated now as the registration service is back to the usual schedule)."
   },
   {
     "objectID": "misc.html#disclaimer",
@@ -61,33 +68,5 @@
     "title": "News",
     "section": "",
     "text": "05/2023: From July to September 2023, I will join the Bank of England’s Financial Stability Strategy & Projects division as part of a PhD internship.\n03/2023: I will visit LIS / LISER in November 2023 as part of the  (LIS)^2ER visiting fellowship programme.\n02/2023: “Quantitative Easing and Wealth Inequality: The Asset Price Channel” is now online at the Oxford Bulletin of Economics and Statistics  (Open Access).\n01/2023: “Quantitative Easing and Wealth Inequality: The Asset Price Channel” has been accepted at the Oxford Bulletin of Economics and Statistics!"
-  },
-  {
-    "objectID": "misc.html#other",
-    "href": "misc.html#other",
-    "title": "Miscellaneous",
-    "section": "Other:",
-    "text": "Other:\n\nI made a little twitter bot that alerted followers when registration for the highly demanded barbecue spots at Viennas Danube island has opened (hibernated now as the registration service is back to the usual schedule)."
-  },
-  {
-    "objectID": "index.html#ba-economics-university-of-vienna",
-    "href": "index.html#ba-economics-university-of-vienna",
-    "title": "Philipp Poyntner",
-    "section": "2009-2013: BA Economics, University of Vienna",
-    "text": "2009-2013: BA Economics, University of Vienna\n2022: Short-Term Consultant, European Centre for Social Welfare Policy and Research\n2021: Short-Term Consultant, World Bank (International Finance Corporation)\n2017: Johannes-Kepler-University Linz, Institute for Public Economics, Teaching and Research associate (temporary replacement)\n2016-2017: Oesterreichische Nationalbank (Austrian Central Bank), Foreign Research Division, intern\n2015-2016: Institute for Advanced Studies, Group “Labour Market and Social Policy”, researcher"
-  },
-  {
-    "objectID": "index.html#institute-for-advanced-studies-group-labour-market-and-social-policy-student-assistant",
-    "href": "index.html#institute-for-advanced-studies-group-labour-market-and-social-policy-student-assistant",
-    "title": "Philipp Poyntner",
-    "section": "2014-2015: Institute for Advanced Studies, Group “Labour Market and Social Policy”, student assistant",
-    "text": "2014-2015: Institute for Advanced Studies, Group “Labour Market and Social Policy”, student assistant\nCV"
-  },
-  {
-    "objectID": "misc.html#consultancy-experience",
-    "href": "misc.html#consultancy-experience",
-    "title": "Miscellaneous",
-    "section": "Consultancy experience:",
-    "text": "Consultancy experience:\n\nInternational Finance Corporation (World Bank): Development of a python code to automate data download\nEuropean Centre for Social Welfare Policy and Research: Update of the Tax-Benefit Microsimulation Models SORESI & EUROMOD\nAustrian National Bank (OeNB): Various research projects"
   }
 ]
