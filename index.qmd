@@ -27,10 +27,11 @@ Contact me: philipp.poyntner at wu.ac.at
 :::
 
 #### Research interests
-* Applied Econometrics
-* Monetary Policy and Theory
-* Inequality
-* Housing markets
+
+-   Applied Econometrics
+-   Monetary Policy and Theory
+-   Inequality
+-   Housing markets
 
 ## Research
 
@@ -76,8 +77,7 @@ This paper constitutes an initial attempt to shed light on the role of income di
 
 </details>
 
-Hake, M., & Poyntner, P. (2019). 
-<a href="https://www.oenb.at/dam/jcr:789c2078-b3f2-4621-b9f1-cd4fd3946f3b/05_feei_2019_q2_Household-loans-in-CESEE-from-a-new-perspective.pdf">Household loans in CESEE from a new perspective: the role of income distribution.</a> <em>Focus on European Economic Integration </em> Q2, 75-93.
+Hake, M., & Poyntner, P. (2019). <a href="https://www.oenb.at/dam/jcr:789c2078-b3f2-4621-b9f1-cd4fd3946f3b/05_feei_2019_q2_Household-loans-in-CESEE-from-a-new-perspective.pdf">Household loans in CESEE from a new perspective: the role of income distribution.</a> <em>Focus on European Economic Integration </em> Q2, 75-93.
 
 #### Working Papers
 
@@ -152,7 +152,9 @@ since 2018: PhD Economics, Vienna University of Economics and Business
 2013-2015: Master Economics, University of Vienna
 
 2009-2013: BA Economics, University of Vienna
+
 <hr>
+
 2022: Short-Term Consultant, European Centre for Social Welfare Policy and Research
 
 2021: Short-Term Consultant, World Bank (International Finance Corporation)
@@ -164,6 +166,7 @@ since 2018: PhD Economics, Vienna University of Economics and Business
 2015-2016: Institute for Advanced Studies, Group "Labour Market and Social Policy", researcher
 
 2014-2015: Institute for Advanced Studies, Group "Labour Market and Social Policy", student assistant
+
 <hr>
 
 <a href="cv.pdf">CV</a>

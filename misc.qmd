@@ -14,7 +14,7 @@ engine: knitr
 
 ## Consultancy experience:
 
-::: {.justify}
+::: justify
 International Finance Corporation (World Bank): Development of a python code to automate data download
 
 European Centre for Social Welfare Policy and Research: Update of the Tax-Benefit Microsimulation Models SORESI & EUROMOD
@@ -23,18 +23,23 @@ Austrian National Bank (OeNB): Various research projects
 :::
 
 ## Referee service:
-::: {.justify}
+
+::: justify
 Empirica, Empirical Economics, Oxford Bulletin of Economics and Statistics, Review of World Economics
 :::
+
 ## Other:
-::: {.justify}
+
+::: justify
 I made a little <a href="https://twitter.com/grillplatzwien">twitter bot</a> that alerted followers when registration for the highly demanded barbecue spots at Viennas Danube island has opened (hibernated now as the registration service is back to the usual schedule).
 :::
-## Disclaimer:
-::: {.justify}
-This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on <a href="https://github.com/PhilippPoyntner/website">Github</a>.
-<body>
 
+## Disclaimer:
+
+::: justify
+This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on <a href="https://github.com/PhilippPoyntner/website">Github</a>.
+
+<body>
 
 ::: {#result}
 :::
