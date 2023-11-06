@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a Senior Scientist (Post Doc) at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>.
+I am a Senior Scientist at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.
 
@@ -151,7 +151,7 @@ Workshop at the University of Vienna (Department of Economic History): Developme
 
 ## CV
 
-since 2023: Senior Scientist (Post Doc), Paris Lodron University Salzburg
+since 2023: Senior Scientist, Paris Lodron University Salzburg
 
 2018-2023: PhD Economics, Vienna University of Economics and Business
 
