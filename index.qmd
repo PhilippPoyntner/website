@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a PhD candidate at the Vienna University of Economics and Business. Currently, I am visiting the Bank of England as a PhD intern.
+I am a Senior Scientist (Post Doc) at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.
 
@@ -129,7 +129,11 @@ Unconventional Monetary Policy and the Labour Share (with <a href="https://www.w
 
 ## Teaching
 
-Econometrics III (Bachelor, WU)
+Einführung in die Statistische Datenanalyse (Introduction to statistical data analysis, 24S500110, Bachelor, PLUS)
+
+Makroökonomik (Macroeconomics, 23W500052, Bachelor, PLUS)
+
+Applied Econometrics (Bachelor, WU)
 
 Economic Policy (Master, WU)
 
@@ -147,13 +151,17 @@ Workshop at the University of Vienna (Department of Economic History): Developme
 
 ## CV
 
-since 2018: PhD Economics, Vienna University of Economics and Business
+since 2023: Senior Scientist (Post Doc), Paris Lodron University Salzburg
+
+2018-2023: PhD Economics, Vienna University of Economics and Business
 
 2013-2015: Master Economics, University of Vienna
 
 2009-2013: BA Economics, University of Vienna
 
 <hr>
+
+2023: PhD Intern, Bank of England, Financial Stability Strategy & Projects
 
 2022: Short-Term Consultant, European Centre for Social Welfare Policy and Research
 
