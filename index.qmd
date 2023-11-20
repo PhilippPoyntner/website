@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a Post Doc at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>. Currently, I am visiting LIS / LISER as part of the <a href="https://www.lisdatacenter.org/projects/lis2er-initiative/visitors/"> (LIS)\^2ER visiting fellowship programme</a>.
+I am a Post Doc at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>. Currently, I am visiting LIS / LISER as part of the <a href="https://www.lisdatacenter.org/projects/lis2er-initiative/visitors/"> (LIS)^2^ER visiting fellowship programme</a>.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly microdata such as surveys, firm data, bond data and administrative data.
 
