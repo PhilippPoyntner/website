@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a postdoctoral researcher at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>. 
+I am a postdoctoral researcher at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly granular data such as surveys, firm data, bond data and administrative data.
 
@@ -129,9 +129,13 @@ Unconventional Monetary Policy and the Labour Share (with <a href="https://www.w
 
 ## Teaching
 
-Einführung in die Statistische Datenanalyse (Introduction to statistical data analysis, 24S500110, Bachelor, PLUS)
+**Current:**
 
-Makroökonomik (Macroeconomics, 23W500052, Bachelor, PLUS)
+Data Analysis (Bachelor, PLUS)
+
+Macroeconomics (Bachelor, PLUS)
+
+**Past:**
 
 Applied Econometrics (Bachelor, WU)
 
@@ -141,7 +145,7 @@ International Macroeconomics (Bachelor, WU)
 
 Public Economics (Bachelor, U Linz)
 
-Workshop at the University of Vienna (Department of Economic History): Development of a Python code to automatically web-scrape large-scale OCR-scans of historical documents, introduction of the code to the research team
+Using Python to automatically web-scrape large-scale OCR-scans of historical documents (Workshop at the University of Vienna, Department of Economic History)
 
 ## Media
 
