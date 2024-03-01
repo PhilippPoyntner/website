@@ -34,6 +34,10 @@ Empirica, Empirical Economics, Oxford Bulletin of Economics and Statistics, Revi
 I made a little <a href="https://twitter.com/grillplatzwien">twitter bot</a> that alerted followers when registration for the highly demanded barbecue spots at Viennas Danube island has opened (hibernated now as the registration service is back to the usual schedule).
 :::
 
+::: justify
+Occasionally, I play clarinet with the band "Dritte Hand", specializing in Donaurock and Stonerwalzer. Check out their new album <a href="https://open.spotify.com/album/36vuPMDywVFsP6hKR68JJv?si=KYg2J_mASq-l-acPI5IJ8w">Olle Viecha Olle Fisch</a>.
+:::
+
 ## Disclaimer:
 
 ::: justify
