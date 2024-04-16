@@ -17,11 +17,11 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a postdoctoral researcher at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>.
+I am a postdoctoral researcher at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>. I obtained my PhD from the Vienna University of Economics and Business in October 2023.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly granular data such as surveys, firm data, bond data and administrative data.
 
-My research has been published in journals such as the <em>Oxford Bulletin of Economics and Statistics</em> and the <em>Review of Income and Wealth</em>.
+My research has been published in journals such as the <em>Oxford Bulletin of Economics and Statistics</em> and the <em>Review of Income and Wealth</em>. I have held visiting positions at the Bank of England and at LIS/LISER in Luxembourg.
 
 Contact me: philipp.poyntner at plus.ac.at
 :::

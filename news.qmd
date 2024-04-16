@@ -13,6 +13,13 @@ engine: knitr
 ```
 
 ::: justify
+-   04/2024: I will present "Heat and Construction Workers’ Health" at EUHEA in Vienna in July 2024
+-   04/2024: I will present "How do monetary policy decisions relate to price changes in housing markets?" at the 3rd Workshop on Residential Housing Markets in Vienna in June 2024
+-   04/2024: I will present "How do monetary policy decisions relate to price changes in housing markets?" at the 38th IARIW General Conference ind London in August 2024
+-   01/2024: I will present "Firm-Level Consequences of Corporate Quantitative Easing" at the ASSA Annual Meeting poster session in San Francisco in January 2024
+-   12/2023: My dissertation was awarded with the WU Vienna "Research bonus for outstanding dissertations"
+-   12/2023: I have received a performance bonus for young scientists at WU Vienna for the Publication "Keeping up with the Novaks? Income distribution as a determinant of household debt in CESEE"
+-   12/2023: I will present "Firm-Level Consequences of Corporate Quantitative Easing" at the 17th SEE Economic Research Workshop, Tirana.
 -   11/2023: From November 2023 onward, I am joining the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a> as a Senior Scientist.
 -   10/2023: I completed the PhD Degree Program in Economics and Social Sciences at the Vienna University of Economics and Business (passed with honors) with the thesis "Essays on monetary policy".
 -   05/2023: From July to September 2023, I will join the Bank of England's Financial Stability Strategy & Projects division as part of a PhD internship.
