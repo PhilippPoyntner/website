@@ -17,7 +17,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a postdoctoral researcher at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg </a>. I obtained my PhD from the Vienna University of Economics and Business in October 2023.
+I am a postdoctoral researcher at the <a href="https://www.plus.ac.at/economics/?lang=en"> Department of Economics of the Paris Lodron University Salzburg.</a> I obtained my PhD from the Vienna University of Economics and Business in October 2023.
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly granular data such as surveys, firm data, bond data and administrative data.
 
