@@ -13,11 +13,11 @@ engine: knitr
 ```
 
 ::: justify
-
+-   05/2024: My thesis was awarded the <a href="https://www.wu.ac.at/en/economics/research/hanns-abele-prize">Hanns-Abele Prize 2024</a>
 -   04/2024: I will present "Heat and Construction Workers’ Health" at EUHEA in Vienna in July 2024
 -   04/2024: I will present "How do monetary policy decisions relate to price changes in housing markets?" at the 3rd Workshop on Residential Housing Markets in Vienna in June 2024
 -   04/2024: I will present "How do monetary policy decisions relate to price changes in housing markets?" at the 38th IARIW General Conference ind London in August 2024
--  03/2024 LIS issues a quarterly newsletter "Inequality Matters", where I contributed a note on "Monetary Policy, Housing and Inequality" for<a href="https://www.lisdatacenter.org/wp-content/uploads/files/nl-2024-29.pdf"> Issue No. 29 (March 2024)</a>
+-   03/2024 LIS issues a quarterly newsletter "Inequality Matters", where I contributed a note on "Monetary Policy, Housing and Inequality" for<a href="https://www.lisdatacenter.org/wp-content/uploads/files/nl-2024-29.pdf"> Issue No. 29 (March 2024)</a>
 -   01/2024: I will present "Firm-Level Consequences of Corporate Quantitative Easing" at the ASSA Annual Meeting poster session in San Francisco in January 2024
 -   12/2023: My dissertation was awarded with the WU Vienna "Research bonus for outstanding dissertations"
 -   12/2023: I have received a performance bonus for young scientists at WU Vienna for the Publication "Keeping up with the Novaks? Income distribution as a determinant of household debt in CESEE"

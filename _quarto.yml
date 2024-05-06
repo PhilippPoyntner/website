@@ -20,6 +20,7 @@ website:
       - misc.qmd
   twitter-card: true
   google-analytics: G-VRE6WLCH87
+  cookie-consent: true
   
 format:
   html:

@@ -165,13 +165,7 @@ Using Python to automatically web-scrape large-scale OCR-scans of historical doc
 
 since 2023: Senior Scientist, Paris Lodron University Salzburg
 
-2018-2023: PhD Economics, Vienna University of Economics and Business
-
-2013-2015: Master Economics, University of Vienna
-
-2009-2013: BA Economics, University of Vienna
-
-<hr>
+2018-2023: Teaching and Research Associate, Vienna University of Economics and Business
 
 2023: Visiting researcher LIS / LISER <a href="https://www.lisdatacenter.org/projects/lis2er-initiative/visitors/">((LIS)^2^ER visiting fellowship programme)</a>
 
@@ -190,5 +184,14 @@ since 2023: Senior Scientist, Paris Lodron University Salzburg
 2014-2015: Institute for Advanced Studies, Group "Labour Market and Social Policy", student assistant
 
 <hr>
+
+2018-2023: PhD Economics, Vienna University of Economics and Business
+
+2013-2015: Master Economics, University of Vienna
+
+2009-2013: BA Economics, University of Vienna
+
+<hr>
+
 
 <a href="cv.pdf">CV</a>
