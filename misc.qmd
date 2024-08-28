@@ -25,7 +25,11 @@ Austrian National Bank (OeNB): Various research projects
 ## Referee service:
 
 ::: justify
+<<<<<<< HEAD
 Empirica, Empirical Economics, German Economic Review, OeNB Anniversary Fund, Oxford Bulletin of Economics and Statistics, Real Estate Economics, Review of World Economics
+=======
+Empirica, Empirical Economics, German Economic Review, OeNB Anniversary Fund,, Oxford Bulletin of Economics and Statistics, Real Estate Economics, Review of World Economics
+>>>>>>> fa5cd6708c70e9a447c6cc479249e1ab97565719
 :::
 
 ## Other:
