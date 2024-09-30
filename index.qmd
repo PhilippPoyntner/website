@@ -97,6 +97,8 @@ In the wake of the global financial crisis, several large bank rescues by govern
 
 #### Book chapters & Policy Publications
 
+Monetary Policy, Housing and Inequality (2024), in <em> LIS Inequality Matters,</em> Issue 29.
+
 Feldkircher, M., Schuberth, H., & Poyntner, P. (2017). Verteilungswirkungen unkonventioneller Geldpolitik im Euroraum, in: Hagemann, Kromphart, Jürgen and Marterbauer, Markus (2017): <em> Keynes, Geld und Finanzen. </em> Schriften der Keynes-Gesellschaft, Band 11.
 
 Poyntner, P. (2016). Beschäftigungseffekte von Arbeitszeitverkürzung. Eine makroökonomische Perspektive, 2016, <em> Wirtschaft und Gesellschaft </em> 4, 665-684.
@@ -118,6 +120,18 @@ Public Perceptions of the Linkage between Monetary Policy Decisions and the Hous
 <p style="font-size:12px">
 
 <a href="housing.pdf">Presentation Luxemburg 2022</a>
+
+</p>
+
+</details>
+
+<details>
+
+<summary>Blog</summary>
+
+<p style="font-size:12px">
+
+<a href="https://www.diepresse.com/18877391/wie-geldpolitik-die-immobilienpreise-beeinflusst">Blog entry in "Die Presse"</a>
 
 </p>
 
@@ -157,9 +171,11 @@ Using Python to automatically web-scrape large-scale OCR-scans of historical doc
 
 ## Media
 
-<a href="https://www.derstandard.at/story/2000116564434/ist-die-ezb-ein-umgekehrter-robin-hood">derstandard (2020)</a>
+<a href="https://www.diepresse.com/18877391/wie-geldpolitik-die-immobilienpreise-beeinflusst"> Wie Geldpolitik die Immobilienpreise beeinflusst (Presse, 2024) </a>
 
-<a href="https://awblog.at/arbeitszeitverkuerzung-als-beschaeftigungsmotor/"> A&W Blog (2016)</a>
+<a href="https://www.derstandard.at/story/2000116564434/ist-die-ezb-ein-umgekehrter-robin-hood"> Ist die EZB ein umgekehrter Robin Hood? (Standard, 2020) </a>
+
+<a href="https://awblog.at/arbeitszeitverkuerzung-als-beschaeftigungsmotor/"> Arbeitszeitverkürzung als Beschäftigungsmotor? (A&W Blog, 2016)</a>
 
 ## CV
 
