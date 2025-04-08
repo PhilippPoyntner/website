@@ -21,9 +21,12 @@ I am a postdoctoral researcher at the <a href="https://www.plus.ac.at/economics/
 
 My research interests include macroeconomics, specifically unconventional monetary policy, the housing market and inequality. I apply empirical methods using predominantly granular data such as surveys, firm data, bond data and administrative data.
 
-My research has been published in journals such as the <em>Oxford Bulletin of Economics and Statistics</em> and the <em>Review of Income and Wealth</em>. I have held visiting positions at the Bank of England and at LIS/LISER in Luxembourg. I am affiliated at <a href="https://www.plus.ac.at/salzburg-centre-of-european-union-studies/?lang=en"> SCEUS</a> and an external lecturer for Macroeconomics at the <a href="https://www.wu.ac.at/en/department-of-economics"> Vienna University of Economics and Business. </a>
+I have held visiting positions at the Bank of England and at LIS/LISER in Luxembourg. I am affiliated at <a href="https://www.plus.ac.at/salzburg-centre-of-european-union-studies/?lang=en"> SCEUS</a> and an external lecturer for Macroeconomics at the <a href="https://www.wu.ac.at/en/department-of-economics"> Vienna University of Economics and Business. </a>
 
 Contact me: philipp.poyntner at plus.ac.at
+
+![](logo.jpg)
+
 :::
 
 #### Research interests
@@ -111,7 +114,7 @@ Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (20
 
 Firm-level Consequences of Corporate Quantitative Easing
 
-Public Perceptions of the Linkage between Monetary Policy Decisions and the Housing Market (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, WU and LISER)
+How do monetary policy decisions relate to price changes in housing markets? (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, University of)
 
 <details>
 
@@ -139,8 +142,6 @@ Public Perceptions of the Linkage between Monetary Policy Decisions and the Hous
 
 Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and <a href="https://iiasa.ac.at/staff/roman-hoffmann"> Roman Hoffmann</a>, IIASA)
 
-The role of shadow banks. Conventional versus unconventional monetary policies (with Manuel Gloria and <a href="https://sites.google.com/site/chiarapunzo01/">Chiara Punzo</a>, Bank of England).
-
 The international spillovers of corporate bonds purchases (with <a href="https://sites.google.com/view/marco-garofalo/home">Marco Garofalo </a>, University of Oxford, Bank of England and CfM)
 
 ## Teaching
@@ -149,21 +150,21 @@ The international spillovers of corporate bonds purchases (with <a href="https:/
 
 Data Analysis (Bachelor, PLUS)
 
-Quantitative Methods (Master, PLUS)
+Macroeconomics (Bachelor, PLUS)
 
-European Union Studies (Master, PLUS)
+European Union Studies - Topics in Monetary Economics (Master, PLUS)
 
-Master Seminar (Master, PLUS)
+Interdisciplinary Master Seminar (Master, PLUS)
+
+International Macroeconomics (Bachelor, WU)
 
 **Past:**
 
-Macroeconomics (Bachelor, PLUS)
+Quantitative Methods (Master, PLUS)
 
 Applied Econometrics (Bachelor, WU)
 
 Economic Policy (Master, WU)
-
-International Macroeconomics (Bachelor, WU)
 
 Public Economics (Bachelor, U Linz)
 
