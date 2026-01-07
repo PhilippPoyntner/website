@@ -13,6 +13,8 @@ engine: knitr
 ```
 
 ::: justify
+-   11/2025: We were granted research [access to confidential data from the ECB](https://www.ecb.europa.eu/stats/accessing-our-data/microdata-pilot/html/index.en.html) for the project "The mortgage channel of monetary policy in the Euro Area” (with Anna Matzner)
+-   10/2025: I will present "The international spillovers of corporate bonds purchases" at the 19th South-Eastern European Economic Research Workshop, Bank of Albania in November 2025
 -   05/2025: I will present "The international spillovers of corporate bonds purchases" at the CEBRA at the Boston Fed/Harvard Business School in August 2025
 -   04/2025: I will present "How do monetary policy decisions relate to price changes in housing markets?" at the SCEUS Young Scholars Workshop in May 2025
 -   04/2025: I will present "The international spillovers of corporate bonds purchases" at the Workshop on Credit Market Interventions at the Bank of England in May 2025
