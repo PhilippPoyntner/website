@@ -26,7 +26,6 @@ I have held visiting positions at the Bank of England and at LIS/LISER in Luxemb
 Contact me: philipp.poyntner at plus.ac.at
 
 ![](logo.jpg)
-
 :::
 
 #### Research interests
@@ -38,31 +37,95 @@ Contact me: philipp.poyntner at plus.ac.at
 
 ## Research
 
+#### Work in Progress
+
+The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, University of Cambridge)
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+<div style="flex: 4; min-width: 300px;">
+<details>
+<summary>Abstract</summary>
+<p style="font-size:12px">
+We study how the general public perceives the link between monetary policy and housing
+markets. Using a large-scale, cross-country survey experiment in Austria, Germany,
+Italy, Sweden, and the United Kingdom, we examine households’ understanding of monetary
+policy, their beliefs about its impact on house prices, and how these beliefs respond
+to expert information. We find that while most respondents grasp the basic mechanisms
+of conventional monetary policy and recognize the connection between interest rates and
+house prices, literacy regarding unconventional monetary policy is very low. Beliefs about
+the monetary policy–housing nexus are malleable and respond to information, particularly
+when it is provided by academic economists rather than central bankers. Monetary
+policy literacy is strongly related to education, gender, age, and experience in housing
+and mortgage markets. Our results highlight the central role of housing in how households
+interpret monetary policy and point to the importance of credible and inclusive
+communication strategies for effective policy transmission.
+</p>
+</details>
+</div>
+
+
+<div style="flex: 2; min-width: 120px;">
+<details>
+<summary>Working Paper</summary>
+<p style="font-size:12px">
+<a href="https://www.landecon.cam.ac.uk/sites/default/files/2026-01/2026-04%20SW.pdf">CRERC Working Paper (2026)</a>
+</p>
+</details>
+</div>
+
+<div style="flex: 2; min-width: 120px;">
+<details>
+<summary>Presentation Pilot Project</summary>
+<p style="font-size:12px">
+<a href="housing.pdf">Presentation Luxemburg 2022</a>
+</p>
+</details>
+</div>
+
+<div style="flex: 2; min-width: 120px;">
+<details>
+<summary>Blog</summary>
+<p style="font-size:12px">
+<a href="https://www.diepresse.com/18877391/wie-geldpolitik-die-immobilienpreise-beeinflusst">Blog entry in "Die Presse"</a>
+</p>
+</details>
+</div>
+
+</div>
+
+Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and <a href="https://iiasa.ac.at/staff/roman-hoffmann"> Roman Hoffmann</a>, IIASA)
+
+The international spillovers of corporate bonds purchases (with <a href="https://sites.google.com/view/marco-garofalo/home">Marco Garofalo </a>, University of Oxford, Bank of England and CfM)
+
+Firm-level Consequences of Corporate Quantitative Easing
+
+
 #### Publications
 
 de Luigi, C., Schuberth, H., Feldkircher, M., & Poyntner, P. (2023) <a href="https://onlinelibrary.wiley.com/doi/10.1111/obes.12543">Quantitative Easing and Wealth Inequality: The Asset Price Channel</a>. <em>Oxford Bulletin of Economics and Statistics</em>. https://doi.org/10.1111/obes.12543
 
-<details>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
+<div style="flex: 4; min-width: 300px;">
+<details>
 <summary>Abstract</summary>
-
 <p style="font-size:12px">
-
 We assess the impact of the ECB's unconventional monetary policy, specifically of quantitative easing (QE), on the distribution of household wealth in nine euro area countries. For this purpose, we estimate the effects of a QE shock on housing and risky financial asset prices by means of local projections. We then use these estimates to carry out micro-simulations based on data from the Household Finance and Consumption Survey (HFCS). For the majority of the countries under review, expansionary QE via asset prices leads to net wealth inequality increases when measured using wealth indicators that are sensitive to changes at the tails of the wealth distribution. This finding contrasts with results based on the Gini coefficient which point to an equalizing impact of QE. One-third of the households in our sample holds neither housing nor financial wealth and is thus not directly affected by QE measures through the asset prices channel.
-
 </p>
-
 </details>
+</div>
 
+<div style="flex: 2; min-width: 120px;">
 <details>
-
 <summary>Other versions</summary>
-
 <p style="font-size:12px">
-
-as "Effects of the ECB's unconventional monetary policy on real and financial wealth": <a href="https://research.wu.ac.at/en/publications/effects-of-the-ecbs-unconventional-monetary-policy-on-real-and-fi-9">WU Department of Economics Working Paper Series</a> (the most recent version is heavily revised)
-
+as "Effects of the ECB's unconventional monetary policy on real and financial wealth": <a href="https://research.wu.ac.at/en/publications/effects-of-the-ecbs-unconventional-monetary-policy-on-real-and-fi-9">WU Department of Economics Working Paper Series</a> (the most recent, published version is heavily revised)
 </p>
+</details>
+</div>
+
+
 
 </details>
 
@@ -83,6 +146,33 @@ This paper constitutes an initial attempt to shed light on the role of income di
 Hake, M., & Poyntner, P. (2019). <a href="https://www.oenb.at/dam/jcr:789c2078-b3f2-4621-b9f1-cd4fd3946f3b/05_feei_2019_q2_Household-loans-in-CESEE-from-a-new-perspective.pdf">Household loans in CESEE from a new perspective: the role of income distribution.</a> <em>Focus on European Economic Integration </em> Q2, 75-93.
 
 #### Working Papers
+
+Poyntner, P., & Waltl, S.R. (2026). <a href="https://www.landecon.cam.ac.uk/sites/default/files/2026-01/2026-04%20SW.pdf">The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication</a>. <a href="https://www.landecon.cam.ac.uk/page/crerc-publications">CRECR Working Paper</a> No. 2026-04. </p>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+<div style="flex: 4; min-width: 300px;">
+<details>
+<summary>Abstract</summary>
+<p style="font-size:12px">
+We study how the general public perceives the link between monetary policy and housing
+markets. Using a large-scale, cross-country survey experiment in Austria, Germany,
+Italy, Sweden, and the United Kingdom, we examine households’ understanding of monetary
+policy, their beliefs about its impact on house prices, and how these beliefs respond
+to expert information. We find that while most respondents grasp the basic mechanisms
+of conventional monetary policy and recognize the connection between interest rates and
+house prices, literacy regarding unconventional monetary policy is very low. Beliefs about
+the monetary policy–housing nexus are malleable and respond to information, particularly
+when it is provided by academic economists rather than central bankers. Monetary
+policy literacy is strongly related to education, gender, age, and experience in housing
+and mortgage markets. Our results highlight the central role of housing in how households
+interpret monetary policy and point to the importance of credible and inclusive
+communication strategies for effective policy transmission.
+</p>
+</details>
+</div>
+
+
 
 Poyntner, P., & Reininger, T. (2018). Bail-in and Legacy Assets: Harmonized rules for targeted partial compensation to strengthen the bail-in regime. OeNB Working Paper 224.
 
@@ -109,40 +199,6 @@ Poyntner, P. (2016). Beschäftigungseffekte von Arbeitszeitverkürzung. Eine mak
 Riedel, M., Davoine, T., Poyntner, P., & Titelbach, G. (2015). Optionen zur Deckung des zukünftigen Finanzierungsbedarfes in der Pflege. <em> Study on behalf of the Austrian Ministry of Finance. </em>
 
 Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (2015). Ex Ante Evaluation der Steuerreform 2015/2016. Wirkungen auf Einkommensverteilung, Arbeitsangebot und makroökonomische Größen. <em> Study on behalf of the Austrian Ministry of Finance. </em>
-
-#### Work in Progress
-
-Firm-level Consequences of Corporate Quantitative Easing
-
-The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication? (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, University of Cambridge)
-
-<details>
-
-<summary>Presentation</summary>
-
-<p style="font-size:12px">
-
-<a href="housing.pdf">Presentation Luxemburg 2022</a>
-
-</p>
-
-</details>
-
-<details>
-
-<summary>Blog</summary>
-
-<p style="font-size:12px">
-
-<a href="https://www.diepresse.com/18877391/wie-geldpolitik-die-immobilienpreise-beeinflusst">Blog entry in "Die Presse"</a>
-
-</p>
-
-</details>
-
-Heat and construction workers' health (with <a href="https://www.tuwien.at/ar/ifip/ueber-uns/team/anna-theresa-renner"> Anna-Theresa Renner</a>, TU Vienna, and <a href="https://iiasa.ac.at/staff/roman-hoffmann"> Roman Hoffmann</a>, IIASA)
-
-The international spillovers of corporate bonds purchases (with <a href="https://sites.google.com/view/marco-garofalo/home">Marco Garofalo </a>, University of Oxford, Bank of England and CfM)
 
 ## Teaching
 

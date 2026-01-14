@@ -13,6 +13,8 @@ engine: knitr
 ```
 
 ::: justify
+-   01/2026: New Working Paper! "The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication", with Sofie R. Waltl (Cambridge) is out as CRERC WP: <https://www.landecon.cam.ac.uk/sites/default/files/2026-01/2026-04%20SW.pdf>
+-   01/2026: I will present "The international spillovers of corporate bonds purchases" at the 18ᵗʰ FIW-Research Conference “International Economics” on February 19–20, 2026 at WU Vienna
 -   11/2025: We were granted research [access to confidential data from the ECB](https://www.ecb.europa.eu/stats/accessing-our-data/microdata-pilot/html/index.en.html) for the project "The mortgage channel of monetary policy in the Euro Area” (with Anna Matzner)
 -   10/2025: I will present "The international spillovers of corporate bonds purchases" at the 19th South-Eastern European Economic Research Workshop, Bank of Albania in November 2025
 -   05/2025: I will present "The international spillovers of corporate bonds purchases" at the CEBRA at the Boston Fed/Harvard Business School in August 2025
