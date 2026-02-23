@@ -212,17 +212,24 @@ Hofer, H., Davoine, T., Hyee, R., Miess, M., Müllbacher, S., & Poyntner, P. (20
 
 Data Analysis (Bachelor, PLUS)
 
-Macroeconomics (Bachelor, PLUS)
-
-European Union Studies - Topics in Monetary Economics (Master, PLUS)
+Applied Macroeconomics (Bachelor, PLUS)
 
 Interdisciplinary Master Seminar (Master, PLUS)
 
-International Macroeconomics (Bachelor, WU)
+Microeconomics (Bachelor, PLUS)
+
+Economic Modelling (Bachelor, WU)
+
 
 **Past:**
 
+Topics in Monetary Economics (Master, PLUS)
+
+Macroeconomics (Bachelor, PLUS)
+
 Quantitative Methods (Master, PLUS)
+
+International Macroeconomics (Bachelor, WU)
 
 Applied Econometrics (Bachelor, WU)
 
@@ -243,6 +250,8 @@ Using Python to automatically web-scrape large-scale OCR-scans of historical doc
 ## CV
 
 since 2023: Senior Scientist, Paris Lodron University Salzburg
+
+2026: Short-Term Consultant, World Bank (International Finance Corporation)
 
 2018-2023: Teaching and Research Associate, Vienna University of Economics and Business
 
