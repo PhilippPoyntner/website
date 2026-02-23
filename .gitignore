@@ -5,3 +5,5 @@
 /.quarto/
 /_site/
 personalwebsite_2
+
+**/*.quarto_ipynb
