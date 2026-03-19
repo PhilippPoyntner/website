@@ -13,6 +13,9 @@ engine: knitr
 ```
 
 ::: justify
+-   03/2026: I have received the Transfer and Innovation Grant (€30k, University of Salzburg) for a project on Space Economics, focusing on high-frequency space activity data and its economic implications and other applications from economics to challenges in the space domain.
+-   03/2026: I will present "The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication" at the University of Cambridge (Judge Business School) in June 2026.
+-   03/2026: I will present "Construction data" at the IARIW in Belgium in August 2026.
 -   02/2026: I will present "The international spillovers of corporate bond purchases" at the International Economics Workshop in Göttingen.
 -   01/2026: Started Short-Term Consulting at the International Finance Corporation.
 -   01/2026: New Working Paper! "The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication", with Sofie R. Waltl (Cambridge) is out as CRERC WP: <https://www.landecon.cam.ac.uk/sites/default/files/2026-01/2026-04%20SW.pdf>
