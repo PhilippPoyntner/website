@@ -15,7 +15,7 @@ engine: knitr
 ## Consultancy experience:
 
 ::: justify
-International Finance Corporation (World Bank): Development of a python code to automate data download
+International Finance Corporation (World Bank): Project on family firms in Poland (2026); Development of a python code to automate data download (2020)
 
 European Centre for Social Welfare Policy and Research: Update of the Tax-Benefit Microsimulation Models SORESI & EUROMOD
 
@@ -25,7 +25,7 @@ Austrian National Bank (OeNB): Various research projects
 ## Referee service:
 
 ::: justify
-Empirica, Empirical Economics, German Economic Review, Journal of Money, Credit, and Banking, Journal of Multinational Financial Management, OeNB Anniversary Fund, Oxford Bulletin of Economics and Statistics, Real Estate Economics, Review of World Economics
+Applied Economics, Empirica, Empirical Economics, German Economic Review, Finance Research Letters, Journal of Money, Credit, and Banking, Journal of Multinational Financial Management, OeNB Anniversary Fund, Oxford Bulletin of Economics and Statistics, Real Estate Economics, Review of World Economics
 :::
 
 ## Other:
@@ -40,7 +40,7 @@ Occasionally, I play clarinet with the band "Dritte Hand", specializing in Donau
 
 ## Disclaimer:
 
-::: justify
+:::: justify
 This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on <a href="https://github.com/PhilippPoyntner/website">Github</a>.
 
 <body>
@@ -55,5 +55,6 @@ This website is made with <a href="https://quarto.org/">Quarto</a> and hosted on
       document.getElementById("result").innerHTML = "The website was last updated on: " + date;
    </script>
 ```
+
 </body>
-:::
+::::
