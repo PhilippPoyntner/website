@@ -42,7 +42,7 @@ Contact me: philipp.poyntner at plus.ac.at
 
 #### Work in Progress
 
-The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, University of Cambridge) [submitted]
+The Connection Between Monetary Policy and Housing Prices: Public Perception and Expert Communication (with <a href="https://sofiewaltl.com/">Sofie R. Waltl</a>, University of Cambridge) \[submitted\]
 
 ::::::: {style="display: flex; gap: 20px; flex-wrap: wrap;"}
 ::: {style="flex: 4; min-width: 300px;"}
@@ -219,7 +219,6 @@ Interdisciplinary Master Seminar (Master, PLUS)
 Microeconomics (Bachelor, PLUS)
 
 Economic Modelling (Bachelor, WU)
-
 
 **Past:**
 
